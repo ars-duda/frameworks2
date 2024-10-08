@@ -1,1 +1,4 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
+.degradeMenu{
+    background: radial-gradient(circle, rgba(249,247,195,1) 0%, rgba(247,157,255,1) 26%, rgba(183,186,255,1) 40%, rgba(255,193,193,1) 56%, rgba(61,144,242,1) 100%);
+}

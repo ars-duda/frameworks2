@@ -1,7 +1,7 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
 
 body{
-background: linear-gradient(180deg, rgba(169,197,247,1) 0%, rgba(62,121,232,1) 78%, rgba(0,0,0,1) 100%);
+  background: rgb(255, 255, 255);
   min-height: 100vh;
 }
 .conteudo {
